@@ -1,0 +1,7 @@
+image2emb.py 图片格式转patch embedding实现
+origin_mhsa.py 多头自注意力机制实现
+patch_merge.py patch merging层实现
+shift_window_mhsa.py 滑动窗口多头自注意力机制实现
+sw_block.py shift window block实现
+sw_model.py 完整模型实现
+window_mhsa.py 窗口多头自注意力机制实现
